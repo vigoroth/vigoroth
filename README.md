@@ -1,17 +1,20 @@
+<a href="https://my-portfolio-umber-eight-91.vercel.app">
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/header-static.png">
   <img src="./assets/header.gif" alt="Nick Kantiotis — Data Scientist. AI agents, machine learning and computer vision. Based in Athens, Greece." width="1200">
 </picture>
+</a>
 
 <p align="center">
-  <a href="#selected-projects">Selected projects</a> ·
-  <a href="#technical-toolkit">Technical toolkit</a> ·
-  <a href="#currently-exploring">Currently exploring</a>
+  <a href="https://my-portfolio-umber-eight-91.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/nick-kantiotis/">LinkedIn</a> ·
+  <a href="https://dione.lib.unipi.gr/xmlui/handle/unipi/17827">Master's thesis</a> ·
+  <a href="#selected-projects">Projects</a>
 </p>
 
 ## Hi, I'm Nick
 
-I'm a **Data Scientist based in Athens**, with a background in **Statistics and Computer Science** and experience in pharmaceutical analytics.
+I'm a **Data Scientist based in Athens**, with a **BSc in Statistics & Insurance Science** and an **MSc in Computer Science**. My professional background is in pharmaceutical analytics, connecting complex data with business decisions.
 
 My projects connect data, machine learning and software engineering: from computer vision experiments to AI agents that use tools and retrieve information. I focus on making the methods, evaluation and practical limitations clear.
 
@@ -39,6 +42,10 @@ My projects connect data, machine learning and software engineering: from comput
 | Data science | Data preparation, statistical analysis, model comparison and experiment design |
 | AI engineering | Retrieval, tool-using agents, APIs and evaluation |
 | Computer vision | Object detection, image segmentation and geometric transformations |
+
+## Research & learning
+
+My master's thesis focuses on **object detection in basketball game videos**, connecting deep learning with sports video analysis. [Read the thesis](https://dione.lib.unipi.gr/xmlui/handle/unipi/17827).
 
 ## Currently exploring
 
