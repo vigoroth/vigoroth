@@ -1,41 +1,51 @@
-# Hi, I'm Nick Kantiotis
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/header-static.png">
+  <img src="./assets/header.gif" alt="Nick Kantiotis — Data Scientist. AI agents, machine learning and computer vision. Based in Athens, Greece." width="1200">
+</picture>
 
-### Data Scientist | AI Agents · Machine Learning · Computer Vision
+<p align="center">
+  <a href="#selected-projects">Selected projects</a> ·
+  <a href="#technical-toolkit">Technical toolkit</a> ·
+  <a href="#currently-exploring">Currently exploring</a>
+</p>
 
-Based in Athens, Greece, with a background in Statistics and
-Computer Science and experience in pharmaceutical analytics.
+## Hi, I'm Nick
 
-I build projects that connect data, machine learning, and software
-engineering, with a focus on evaluation, reproducibility, and
-practical applications.
+I'm a **Data Scientist based in Athens**, with a background in **Statistics and Computer Science** and experience in pharmaceutical analytics.
 
-## Selected Projects
+My projects connect data, machine learning and software engineering: from computer vision experiments to AI agents that use tools and retrieve information. I focus on making the methods, evaluation and practical limitations clear.
 
-- [Argus](https://github.com/vigoroth/Argus)
-  — Self-hosted AI agent workspace with RAG, tools, memory,
-  evaluation, and observability.
+## Selected projects
 
-- [Support Ticket Triage](https://github.com/vigoroth/support-ticket-triage)
-  — Complaint classification and retrieval-grounded draft replies,
-  with evaluation of quality, latency, and cost.
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/vigoroth/Argus"><img src="./assets/argus.svg" alt="Argus: AI agent workspace with tools, retrieval, memory and observability. LangGraph, FastAPI and React." width="620"></a></td>
+    <td width="50%"><a href="https://github.com/vigoroth/support-ticket-triage"><img src="./assets/triage.svg" alt="Support Ticket Triage: complaint classification, retrieval-grounded drafts and evaluation of quality, latency and cost." width="620"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/vigoroth/ai-data-agent"><img src="./assets/data-agent.svg" alt="AI Data Analysis Agent: natural-language analysis of tabular data with Python, DuckDB and LangGraph." width="620"></a></td>
+    <td width="50%"><a href="https://github.com/vigoroth/AIVC-covid-segmentation"><img src="./assets/segmentation.svg" alt="CT Image Segmentation: U-Net and DeepLabV3+ comparison using PyTorch and Optuna." width="620"></a></td>
+  </tr>
+</table>
 
-- [AI Data Analysis Agent](https://github.com/vigoroth/ai-data-agent)
-  — Natural-language data analysis using LangGraph, FastAPI,
-  DuckDB, and Python.
+**Also in computer vision:** [Basketball detection and dataset creation](https://github.com/vigoroth/basketball_tracking_dataset_app) · [Classical lane detection](https://github.com/vigoroth/classical-lane-detection) · [Inverse perspective mapping](https://github.com/vigoroth/ipm-perspective-transform)
 
-- [CT Image Segmentation](https://github.com/vigoroth/AIVC-covid-segmentation)
-  — U-Net and DeepLabV3+ comparison with patient-level splits
-  and hyperparameter optimization.
+## Technical toolkit
 
-- [Basketball Tracking](https://github.com/vigoroth/basketball_tracking_dataset_app)
-  — YOLO-based basketball detection and dataset creation.
+<img src="./assets/stack.svg" alt="Python, SQL, PyTorch, OpenCV, LangGraph, FastAPI, DuckDB, Docker, Git and evaluation." width="1200">
 
-## Technical Focus
+| Area | What I work on |
+| --- | --- |
+| Data science | Data preparation, statistical analysis, model comparison and experiment design |
+| AI engineering | Retrieval, tool-using agents, APIs and evaluation |
+| Computer vision | Object detection, image segmentation and geometric transformations |
 
-- Python, SQL, PyTorch, and OpenCV
-- LLM applications, RAG, and agent orchestration
-- FastAPI, Docker, testing, and evaluation
+## Currently exploring
 
-## Currently Exploring
+- **RAG systems:** retrieval strategies, grounded answers and reproducible evaluation.
+- **Reliable AI agents:** tool use, tests, observability and cost measurement.
+- **Vision-language models:** connecting visual information with language.
 
-RAG retrieval strategies, reliable AI agents, and vision-language models.
+---
+
+<p align="center"><sub>Statistics + Computer Science · From data to working systems.</sub></p>
