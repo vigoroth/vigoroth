@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Nick Kantiotis
 
-<!--
-**vigoroth/vigoroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Scientist | AI Agents · Machine Learning · Computer Vision
 
-Here are some ideas to get you started:
+Based in Athens, Greece, with a background in Statistics and
+Computer Science and experience in pharmaceutical analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build projects that connect data, machine learning, and software
+engineering, with a focus on evaluation, reproducibility, and
+practical applications.
+
+## Selected Projects
+
+- [Argus](https://github.com/vigoroth/Argus)
+  — Self-hosted AI agent workspace with RAG, tools, memory,
+  evaluation, and observability.
+
+- [Support Ticket Triage](https://github.com/vigoroth/support-ticket-triage)
+  — Complaint classification and retrieval-grounded draft replies,
+  with evaluation of quality, latency, and cost.
+
+- [AI Data Analysis Agent](https://github.com/vigoroth/ai-data-agent)
+  — Natural-language data analysis using LangGraph, FastAPI,
+  DuckDB, and Python.
+
+- [CT Image Segmentation](https://github.com/vigoroth/AIVC-covid-segmentation)
+  — U-Net and DeepLabV3+ comparison with patient-level splits
+  and hyperparameter optimization.
+
+- [Basketball Tracking](https://github.com/vigoroth/basketball_tracking_dataset_app)
+  — YOLO-based basketball detection and dataset creation.
+
+## Technical Focus
+
+- Python, SQL, PyTorch, and OpenCV
+- LLM applications, RAG, and agent orchestration
+- FastAPI, Docker, testing, and evaluation
+
+## Currently Exploring
+
+RAG retrieval strategies, reliable AI agents, and vision-language models.
